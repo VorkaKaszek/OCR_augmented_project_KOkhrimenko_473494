@@ -1,0 +1,19 @@
+# Large image data
+lines flattened augmented/
+lines flattened/
+*.zip
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Notebook and cache files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
