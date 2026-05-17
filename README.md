@@ -2,6 +2,10 @@
 
 This project presents an OCR pipeline for handwritten line recognition. The model was trained on an augmented handwritten text-line dataset using a CRNN architecture with CTC loss. The main objective was to improve recognition robustness through image augmentation while preserving a leakage-safe train, validation, and test split.
 
+## Author
+
+Kostiantyn Okhrimenko ID: 473494
+
 ## Project Overview
 
 The task is to recognize handwritten text from line images. The dataset contains original handwritten line images and augmented versions of selected images. Augmented images were used only for training, while validation and test sets contained only original images.
